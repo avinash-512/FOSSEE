@@ -6,13 +6,13 @@
 
 <h2>The program contains two functions:</h2><br>
   <h3>1) imquantize():<br></h3>
-        - This function tries to do the work of imquantize() present in MATLAB, what it does is quantizes the image.<br>
-        - It takes two arguments:<br>
-          -> **input** : Contains the input image ( Mat data type)<br>
-          -> **levels** : Contains the levels data (2-d vector)<br>
-        - It quantizes the color of all pixels in input using levels<br>
-        - It has one Output:<br>
-          -> **output** : Contains the quantized image (Mat data type)<br>
+        - This function tries to do the work of imquantize() present in MATLAB, what it does is quantizes the image.
+        - It takes two arguments:
+          -> **input** : Contains the input image ( Mat data type)
+          -> **levels** : Contains the levels data (2-d vector)
+        - It quantizes the color of all pixels in input using levels
+        - It has one Output:
+          -> **output** : Contains the quantized image (Mat data type)
   <br>
   <h3>2) imfill():</h3><br>
         - This functions tries to fill all the holes present in a binary image.<br>
