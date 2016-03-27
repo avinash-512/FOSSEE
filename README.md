@@ -7,6 +7,7 @@
 - To execute:
 
 > gcc ipt.cpp
+
 <h2>The program contains two functions:</h2><br>
 
 <h3>1) imquantize():<br></h3>
