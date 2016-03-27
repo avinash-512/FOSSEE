@@ -12,8 +12,7 @@
   * **levels** : Contains the levels data (2-d vector)
 - It quantizes the color of all pixels in input using levels
 - It has one Output:
-          -> **output** : Contains the quantized image (Mat data type)
-<br>
+  * **output** : Contains the quantized image (Mat data type)
 <h3>2) imfill():</h3>
 - This functions tries to fill all the holes present in a binary image.<br>
 - It takes only one argument:
