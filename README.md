@@ -6,8 +6,8 @@
 
 <h2>The program contains two functions:</h2><br>
   <h3>1) imquantize():<br></h3>
-        - This function tries to do the work of imquantize() present in MATLAB, what it does is quantizes the image.
-        - It takes two arguments:
+- This function tries to do the work of imquantize() present in MATLAB, what it does is quantizes the image.
+- It takes two arguments:
           -> **input** : Contains the input image ( Mat data type)
           -> **levels** : Contains the levels data (2-d vector)
         - It quantizes the color of all pixels in input using levels
