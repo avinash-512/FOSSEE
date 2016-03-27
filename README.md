@@ -3,6 +3,7 @@
 
 <h4>To run the program :<h4>
 >g++ xyz.cpp
+
 <h2>The program contains two functions:</h2><br>
 <h3>1) imquantize():<br></h3>
 - This function tries to do the work of imquantize() present in MATLAB, what it does is quantizes the image.
