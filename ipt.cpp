@@ -1,3 +1,11 @@
+/*
+	Name :  Avinash V.
+	Functions used : 
+		* imfill() 
+		* imquantized()
+	Arguments details :
+		present inside the functions
+*/
 #include <stdio.h>
 #include <iostream>
 #include <vector>
