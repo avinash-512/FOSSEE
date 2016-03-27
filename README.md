@@ -2,7 +2,7 @@
 **FOSSEE Tool Box project**
 
 <h4>To run the program :</h4>
-- Navigate to the repo folder (FOSSEE/Image_processing_toolbox)
+- Navigate to the repo folder (FOSSEE)
 - Make sure image.jpg is present
 - To execute:
 
