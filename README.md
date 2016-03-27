@@ -1,5 +1,8 @@
 # FOSSEE
-FOSSEE Tool Box project
+###FOSSEE Tool Box project
+
+<h2>To run the program :<h2>
+>g++ xyz.cpp
 
 <h2>The program contains two functions:</h2><br>
   <h3>1) **imquantize():**<br></h3>
@@ -22,5 +25,3 @@ FOSSEE Tool Box project
         -It has one Output:<br>
           -> **image_output** : Contains the output Binary image (Mat Data-type)<br>
   
-To run the program :
->g++ xyz.cpp
