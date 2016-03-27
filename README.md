@@ -1,11 +1,11 @@
 # FOSSEE
-###FOSSEE Tool Box project
+**FOSSEE Tool Box project**
 
-<h3>To run the program :<h3>
-  >g++ xyz.cpp
+<h4>To run the program :<h4>
+>g++ xyz.cpp
 
 <h2>The program contains two functions:</h2><br>
-  <h3>1) **imquantize():**<br></h3>
+  <h3>1) imquantize():<br></h3>
         -This function tries to do the work of imquantize() present in MATLAB, what it does is quantizes the image.<br>
         -It takes two arguments:<br>
           -> **input** : Contains the input image ( Mat data type)<br>
@@ -14,7 +14,7 @@
         -It has one Output:<br>
           -> **output** : Contains the quantized image (Mat data type)<br>
   <br>
-  <h3>2) **imfill():**</h3><br>
+  <h3>2) imfill():</h3><br>
         -This functions tries to fill all the holes present in a binary image.<br>
         -It takes only one argument:<br>
         -> **image** : Contains the input image(Binary) (Mat Data type)<br>
