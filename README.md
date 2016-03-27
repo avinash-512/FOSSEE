@@ -5,6 +5,7 @@
 - Navigate to the repo folder (FOSSEE/Image_processing_toolbox)
 - Make sure image.jpg is present
 - To execute:
+
 > gcc ipt.cpp
 <h2>The program contains two functions:</h2><br>
 
