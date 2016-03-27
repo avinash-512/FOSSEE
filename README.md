@@ -2,9 +2,11 @@
 **FOSSEE Tool Box project**
 
 <h4>To run the program :<h4>
+
 >g++ xyz.cpp
 
 <h2>The program contains two functions:</h2><br>
+
 <h3>1) imquantize():<br></h3>
 - This function tries to do the work of imquantize() present in MATLAB, what it does is quantizes the image.
 - It takes two arguments:
@@ -13,6 +15,9 @@
 - It quantizes the color of all pixels in input using levels
 - It has one Output:
   * **output** : Contains the quantized image (Mat data type)
+
+<br>
+
 <h3>2) imfill():</h3>
 - This functions tries to fill all the holes present in a binary image.<br>
 - It takes only one argument:
