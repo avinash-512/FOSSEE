@@ -1,12 +1,11 @@
 # FOSSEE
 **FOSSEE Tool Box project**
 
-<h4>To run the program :<h4>
-
+<h4>To run the program :</h4>
 - Navigate to the repo folder (FOSSEE/Image_processing_toolbox)
 - Make sure image.jpg is present
 - execute the following code:
- > gcc ipt.cpp
+> gcc ipt.cpp
 
 <h2>The program contains two functions:</h2><br>
 
