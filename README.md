@@ -1,8 +1,8 @@
 # FOSSEE
 ###FOSSEE Tool Box project
 
-<h2>To run the program :<h2>
->g++ xyz.cpp
+<h3>To run the program :<h3>
+  >g++ xyz.cpp
 
 <h2>The program contains two functions:</h2><br>
   <h3>1) **imquantize():**<br></h3>
