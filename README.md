@@ -2,8 +2,7 @@
 **FOSSEE Tool Box project**
 
 <h4>To run the program :<h4>
-
->g++ xyz.cpp
+ > g++ xyz.cpp
 
 <h2>The program contains two functions:</h2><br>
 
